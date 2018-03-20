@@ -1,7 +1,8 @@
 # _Common
 
 
-# Under Project Settings/Editor:
+## Necessary settings for version control 
+## Under Project Settings/Editor:
 
 ### 1. Set Asset Serialization Mode to "Force Text"
 *Unity uses serialization to load and save Assets and AssetBundles to and from your computer’s hard drive. 
